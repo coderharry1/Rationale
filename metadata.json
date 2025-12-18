@@ -1,0 +1,5 @@
+{
+  "name": "Rationale",
+  "description": "A lightweight decision-tracking tool for async product teams to capture context and trade-offs, preventing decision churn.",
+  "requestFramePermissions": []
+}
